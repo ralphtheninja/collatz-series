@@ -1,6 +1,6 @@
 {
   "name": "collatz-series",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "calculates a collatz series of integers given a positive integer",
   "main": "index.js",
   "keywords": [
