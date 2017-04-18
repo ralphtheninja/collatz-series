@@ -17,9 +17,3 @@ function next (n) {
 }
 
 module.exports = collatz
-
-if (!module.parent) {
-  const N = Number(process.argv.slice(2)[0])
-  console.log('N', N)
-  console.log('series', collatz(N))
-}
