@@ -1,0 +1,12 @@
+{
+  "name": "collatz-series",
+  "version": "1.0.0",
+  "description": "calculates a collatz series of integers given a positive integer",
+  "main": "index.js",
+  "keywords": [
+    "collatz",
+    "conjecture"
+  ],
+  "author": "Lars-Magnus Skog <ralphtheninja@riseup.net>",
+  "license": "MIT"
+}
